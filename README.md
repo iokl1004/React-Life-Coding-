@@ -7,6 +7,7 @@
 목소리도 나긋나긋하고 수업에 집중도 잘되고 너무 좋았다.
 
 URL : https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi
+Edit : VS Code(version 1.63)
 
 2021.12.29(수)
 1. 수업소개 (완료)
