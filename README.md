@@ -10,6 +10,7 @@ URL : https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi
 Edit : VS Code(version 1.63)
 
 2021.12.29(수)
+
 1. 수업소개 (완료)
 2. 공부 전략 (완료)
 3. 개발환경의 종류 (완료)
