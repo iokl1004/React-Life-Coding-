@@ -59,9 +59,15 @@ Edit : VS Code(version 1.63)
 2021.12.31(금)
 
 18. 베이스 캠프 (완료)
+ 
 19.1 create 구현 : 소개 (완료)
+
 19.2 create 구현 : mode변경 기능 (완료)
+
 19.3 create 구현 : mode전환 기능 (완료)
+
 19.4 create 구현 : form (완료)
+
 19.5 create 구현 : onSubmit이벤트 (완료)
+
 19.6 create 구현 : content변경 (완료)
