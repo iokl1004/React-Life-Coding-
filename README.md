@@ -71,3 +71,19 @@ Edit : VS Code(version 1.63)
 19.5 create 구현 : onSubmit이벤트 (완료)
 
 19.6 create 구현 : content변경 (완료)
+
+2022.01.13(월)
+
+19.7 create 구현 : shouldComponentUpdate (완료)
+
+19.8 create 구현 : immutable (완료)
+
+20.1 update 구현 (완료)
+
+20.2 update 구현 : form (완료)
+
+20.3 update 구현 : state 변경 (완료)
+
+21. delete 구현 (완료)
+
+22. 수업을 마치며 (완료)
