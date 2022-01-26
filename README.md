@@ -72,7 +72,7 @@ Edit : VS Code(version 1.63)
 
 19.6 create 구현 : content변경 (완료)
 
-2022.01.13(월)
+2022.01.03(월)
 
 19.7 create 구현 : shouldComponentUpdate (완료)
 
